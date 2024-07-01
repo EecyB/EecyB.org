@@ -1,5 +1,5 @@
 # EecyB.org
-We are privately owned small organization. The main purpose is the development of graphical interfaces, synthetic data generation, tensorflow supported test suite and software that helps to improve
+We are a privately owned small organization. The main purpose is the development of graphical interfaces, synthetic data generation, tensorflow supported test suite and software that helps to improve
 optical interfaces beween: data -> NAI -> human <-> information.
 
 - Owners
